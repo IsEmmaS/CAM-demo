@@ -5,10 +5,10 @@
 
 ## CAM Result Images 
 <div align="center">
-    <img src="https://github.com/IsEmmaS/CAM-demo/tree/main/assets/Parasitized.png"
+    <img src="assets/Parasitized.png"
          width="300"
          alt="Sample Show">
-    <img src="https://github.com/IsEmmaS/CAM-demo/tree/main/assets/Parasitized_1.png"
+    <img src="assets/Parasitized_1.png"
          width="300"
          alt="Sample Show">
 </div>
