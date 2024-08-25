@@ -4,3 +4,4 @@
 cell_images/*
 # idea file
 .idea
+__pycache__/
