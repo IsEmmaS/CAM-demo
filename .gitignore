@@ -1,0 +1,6 @@
+# Ignore the Dataset of Malaria cells,
+# You can download it from the link
+# (https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria)
+cell_images/*
+# idea file
+.idea
