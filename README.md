@@ -11,4 +11,7 @@
     <img src="assets/Parasitized_1.png"
          width="300"
          alt="Sample Show">
+     <img src="assets/Parasitized_2.png"
+         width="300"
+         alt="Sample Show">
 </div>
