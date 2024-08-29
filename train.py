@@ -104,7 +104,7 @@ if __name__ == '__main__':
         return map
 
 
-    N = 20
+    N = 16
     _val_dl = DataLoader(val_ds, batch_size=N, shuffle=True, collate_fn=val_ds.collate_fn)
 
     x, y, z = next(iter(_val_dl))
